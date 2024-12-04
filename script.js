@@ -264,7 +264,7 @@ const ETFDividendTool = () => {
       onClick: () => setSelectedCategory(category),
       className: `px-3 py-1 rounded transition duration-300 ${
       selectedCategory === category ?
-      'bg-green-600 text-white font-bold shadow-md' :
+      'bg-blue-600 text-white font-bold shadow-md' :
       'bg-gray-200 text-gray-700 hover:bg-gray-300'
       }` },
 
