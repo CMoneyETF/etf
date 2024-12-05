@@ -232,7 +232,7 @@ button:hover {
 @media (max-width: 768px) {
   .table-cell {
     padding: 6px 2px; /* 進一步減少內邊距 */
-    font-size: 0.65rem; /* 進一步縮小字體 */
+    font-size: 0.5rem; /* 進一步縮小字體 */
   }
 
 }
