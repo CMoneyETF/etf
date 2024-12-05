@@ -234,10 +234,4 @@ button:hover {
     padding: 6px 2px; /* 進一步減少內邊距 */
     font-size: 0.8rem; /* 進一步縮小字體 */
   }
-  
-  /* 隱藏一些不太重要的列，如果需要的話 */
-  .table-container th:nth-child(5),
-  .table-container td:nth-child(5) {
-    display: none;
-  }
 }
