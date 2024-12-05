@@ -10,8 +10,8 @@ body {
 .mb-6 { margin-bottom: 1.5rem; }
 .mt-4 { margin-top: 1rem; }
 .mx-auto { margin-left: auto; margin-right: auto; }
-.w-full { width: 100%; }
-.max-w-full { max-width: 100%; }
+.w-full { width: 30%; }
+.max-w-full { max-width: 50%; }
 
 /* 文字樣式 */
 .text-xl { font-size: 1.25rem; }
@@ -121,6 +121,7 @@ button:hover {
   .floating-banner img {
     width: 150px; /* 在小屏幕上稍微縮小 */
   }
+  .max-w-full { max-width: 100%; }
 }
 
 
