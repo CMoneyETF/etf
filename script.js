@@ -38,7 +38,7 @@ const etfData = [
 { code: "00858", name: "永豐美國500大", period: "半年配", dividend: "$3.200", compared: "▲0.627", yield: "9.36%", category: "國際" },
 { code: "00878", name: "國泰永續高股息", period: "季配", dividend: "$2.010", compared: "▲0.770", yield: "9.12%", category: "高股息" },
 { code: "00881", name: "國泰台灣5G+", period: "半年配", dividend: "$1.750", compared: "▲0.940", yield: "7.17%", category: "主題" },
-{ code: "00882", name: "中信中國高股息", period: "半年配", dividend: "$0.660", compared: "▼0.040", yield: "5.30%", category: "國際" },
+{ code: "00882", name: "中信中國高股息", period: "半年配", dividend: "$0.660", compared: "▼0.040", yield: "5.30%", category: "高股息" },
 { code: "00888", name: "永豐台灣ESG", period: "季配", dividend: "$0.717", compared: "▼0.115", yield: "4.37%", category: "主題" },
 { code: "00891", name: "中信關鍵半導體", period: "季配", dividend: "$1.620", compared: "▲0.890", yield: "9.32%", category: "主題" },
 { code: "00892", name: "富邦台灣半導體", period: "半年配", dividend: "$0.385", compared: "▼0.094", yield: "2.29%", category: "主題" },
