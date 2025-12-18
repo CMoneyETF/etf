@@ -304,7 +304,7 @@ const ETFDividendTool = () => {
 
   return /*#__PURE__*/(
     React.createElement("div", { className: "p-4 max-w-full mx-auto etf-tool-container main-content" }, /*#__PURE__*/
-    React.createElement("h1", { className: "title mb-4 sm:mb-6" }, "2024 ETF \u914D\u606F\u5E74\u8868\u67E5\u8A62\u5DE5\u5177"), /*#__PURE__*/
+    React.createElement("h1", { className: "title mb-4 sm:mb-6" }, "2025 ETF \u914D\u606F\u5E74\u8868\u67E5\u8A62\u5DE5\u5177"), /*#__PURE__*/
 
     React.createElement("div", { className: "filter-section" }, /*#__PURE__*/
     React.createElement("input", {
