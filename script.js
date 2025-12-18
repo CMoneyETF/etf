@@ -203,7 +203,7 @@ React.createElement("a", {
   rel: "noopener noreferrer",
   className: "floating-banner pc-banner" }, /*#__PURE__*/
 
-React.createElement("img", { src: "https://image.cmoney.tw/attachment/post/1765987200/80499893-cf16-42d3-ade5-682c48c254ae.png", alt: "ETF Choice Banner for PC" })), /*#__PURE__*/
+React.createElement("img", { src: "https://image.cmoney.tw/attachment/post/1765987200/05193653-75d8-482b-9f39-85fe9f40fe82.png", alt: "ETF Choice Banner for PC" })), /*#__PURE__*/
 
 React.createElement("a", {
   href: "https://www.cmoney.tw/r/194/mr1jzh",
