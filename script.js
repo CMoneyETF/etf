@@ -198,15 +198,15 @@ const categories = ["全部", "市值型", "高股息", "主題型", "國際型"
 const FloatingBanner = () => /*#__PURE__*/
 React.createElement(React.Fragment, null, /*#__PURE__*/
 React.createElement("a", {
-  href: "https://etfchoice.page.link/PfQr",
+  href: "https://www.cmoney.tw/r/194/mr1jzh",
   target: "_blank",
   rel: "noopener noreferrer",
   className: "floating-banner pc-banner" }, /*#__PURE__*/
 
-React.createElement("img", { src: "https://i.imgur.com/e8PGBTr.png", alt: "ETF Choice Banner for PC" })), /*#__PURE__*/
+React.createElement("img", { src: "https://image.cmoney.tw/attachment/post/1765987200/80499893-cf16-42d3-ade5-682c48c254ae.png", alt: "ETF Choice Banner for PC" })), /*#__PURE__*/
 
 React.createElement("a", {
-  href: "https://etfchoice.page.link/1B71",
+  href: "https://www.cmoney.tw/r/194/mr1jzh",
   target: "_blank",
   rel: "noopener noreferrer",
   className: "floating-banner mobile-banner" }, /*#__PURE__*/
