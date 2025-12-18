@@ -264,8 +264,8 @@ const ETFDividendTool = () => {
         let bValue = parsePercentage(b[sortConfig.key]);
 
         if (sortConfig.key === 'compared') {
-          aValue = a[sortConfig.key] === '-' ? Number.NEGATIVE_INFINITY : parseFloat(a[sortConfig.key].replace('▲', '').replace('▼', ''));
-          bValue = b[sortConfig.key] === '-' ? Number.NEGATIVE_INFINITY : parseFloat(b[sortConfig.key].replace('▲', '').replace('▼', ''));
+          aValue = a[sortConfig.key] === '-' ? Number.NEGATIVE_INFINITY : parseFloat(a[sortConfig.key].replace('▲', '').replace('▼', '-'));
+          bValue = b[sortConfig.key] === '-' ? Number.NEGATIVE_INFINITY : parseFloat(b[sortConfig.key].replace('▲', '').replace('▼', '-'));
         } else if (sortConfig.key === 'dividend') {
           aValue = a[sortConfig.key] === '-' ? Number.NEGATIVE_INFINITY : parseFloat(a[sortConfig.key].replace('$', '').replace(',', ''));
           bValue = b[sortConfig.key] === '-' ? Number.NEGATIVE_INFINITY : parseFloat(b[sortConfig.key].replace('$', '').replace(',', ''));
